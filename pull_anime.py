@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#This script will take your anime-planet.com username and scrape a list of your watched anime in XML utf-8 format to anime-planet.xml
+#This script will take your anime-planet.com username and scrape a list of your watched anime in XML utf-8 format to SpacePull.xml
  
 from bs4 import BeautifulSoup,NavigableString
 import urllib2,sys,re,codecs
